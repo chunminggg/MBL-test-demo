@@ -1,0 +1,24 @@
+platform :ios, '8.0'
+target 'MBL_Realm' do
+pod 'Realm'
+pod 'SDAutoLayout'
+ pod 'ZLPhotoBrowser'
+pod 'QRCodeReaderViewController'
+ pod 'AFNetworking'
+   pod 'MJExtension', '~> 3.0.13'
+
+pod 'CocoaAsyncSocket' 
+pod 'SocketRocket'
+ 
+
+
+
+
+
+
+
+target 'MBL_RealmTests' do
+pod 'Realm/Headers'
+
+end
+end

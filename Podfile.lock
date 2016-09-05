@@ -1,0 +1,50 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - CocoaAsyncSocket (7.5.0):
+    - CocoaAsyncSocket/GCD (= 7.5.0)
+  - CocoaAsyncSocket/GCD (7.5.0)
+  - MJExtension (3.0.13)
+  - QRCodeReaderViewController (4.0.1)
+  - Realm (1.0.2):
+    - Realm/Headers (= 1.0.2)
+  - Realm/Headers (1.0.2)
+  - SDAutoLayout (2.1.4)
+  - SocketRocket (0.5.1)
+  - ZLPhotoBrowser (1.0.7)
+
+DEPENDENCIES:
+  - AFNetworking
+  - CocoaAsyncSocket
+  - MJExtension (~> 3.0.13)
+  - QRCodeReaderViewController
+  - Realm
+  - Realm/Headers
+  - SDAutoLayout
+  - SocketRocket
+  - ZLPhotoBrowser
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  CocoaAsyncSocket: 3baeb1ddd969f81cf9fca81053ae49ef2d1cbbfa
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  QRCodeReaderViewController: 6538745c8f4ffa9407a26bd7f9489ea01739e7b0
+  Realm: 9d5c46a4d7d27958530a8dfc58f63a99e5c2cba3
+  SDAutoLayout: 1b2926b193a63287f473dae426ed07861e21e271
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  ZLPhotoBrowser: f0c01ea435582fb33fca56feccac40bdcdeb799e
+
+COCOAPODS: 0.39.0
